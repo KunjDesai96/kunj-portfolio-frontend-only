@@ -1,0 +1,23 @@
+.about {
+    margin-top: 32px;
+}
+
+.about-wrapper {
+    max-width: 600px;
+}
+
+.about-wrapper h1 {
+    display: none;
+}
+
+.about-card {
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.about-text {
+    color: var(--muted);
+    line-height: 1.7;
+    font-size: 1rem;
+}

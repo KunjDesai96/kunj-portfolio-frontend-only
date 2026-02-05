@@ -1,0 +1,212 @@
+{
+  "profile": {
+    "name": "Kunj Desai",
+    "title": "Software Engineer | Full Stack Developer & Distributed Systems ",
+    "location": "Jersey City, NJ",
+    "email": "kunjdesai303@gmail.com",
+    "phone": "732.810.5938",
+    "linkedin": "https://www.linkedin.com/in/kunj-desai-0805b3179/",
+    "gitHub": "https://github.com/KunjDesai96",
+    "summary": "Software Engineer with over 5 years of professional experience specializing in backend architecture, distributed systems, and financial technology. Extensive experience designing and developing scalable Java/Spring Boot microservices, modernizing legacy systems, and building data pipelines using Snowflake and AWS. Proven ability to lead Agile teams, improve production stability, and deliver high-impact enterprise solutions in fast-paced environments."
+  },
+  "experience": [
+    {
+      "company": "Goldman Sachs",
+      "location": "New York, NY",
+      "role": "Software Associate",
+      "period": "Dec 2023 - Present",
+      "highlights": [
+        "Designed and developed high-availability backend services using Java and Spring Boot for internal financial platforms",
+        "Architected large-scale data pipelines integrating Data Lake and Snowflake to support real-time analytics and reporting",
+        "Re-architected legacy backend modules to improve maintainability, scalability, and system reliability",
+        "Implemented robust Java refiners and data controls to ensure compliance and data integrity for GBM Public teams",
+        "Led end-to-end onboarding of new business lines, managing feature development and authentication alignment",
+        "Built automated UI testing frameworks using Selenium and GS AI tools, reducing manual regression testing by ~40%"
+      ]
+    },
+    {
+      "company": "Goldman Sachs",
+      "location": "New York, NY",
+      "role": "Software Analyst",
+      "period": "Nov 2022 - Dec 2023",
+      "highlights": [
+        "Enhanced backend enterprise services through performance tuning and targeted refactoring",
+        "Modernized authentication and authorization workflows to align with updated internal security architecture",
+        "Provided production support and incident resolution for mission-critical financial systems",
+        "Collaborated with cross-functional teams to deliver secure, scalable backend features"
+      ]
+    },
+    {
+      "company": "Apple Inc. (via Tata Consultancy Services)",
+      "location": "Austin, TX",
+      "role": "Software Developer",
+      "period": "Jan 2021 - Nov 2022",
+      "highlights": [
+        "Developed macOS simulator tools using Swift, enabling developers to run and manage multiple simulators efficiently",
+        "Implemented comprehensive unit test suites to validate macOS application functionality and stability",
+        "Built full-stack banking tools using Java Spring MVC, Hibernate, SQL, and Microservices architecture",
+        "Containerized application environments using Docker to ensure consistent deployment across environments",
+        "Served as Scrum Master, leading sprint planning, standups, and retrospectives for cross-functional teams"
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services (TCS)",
+      "location": "Edison, NJ",
+      "role": "Software Engineer",
+      "period": "Oct 2020 - Dec 2020",
+      "highlights": [
+        "Developed internal backend tools using Java and SQL for enterprise financial systems",
+        "Applied AWS cloud services to improve deployment workflows and resource utilization",
+        "Supported full-stack development initiatives across multiple internal projects"
+      ]
+    },
+    {
+      "company": "Stevens Institute of Technology",
+      "location": "Hoboken, NJ",
+      "role": "Course Assistant - Data Structures",
+      "period": "Sep 2019 - Dec 2019",
+      "highlights": [
+        "Prepared teaching materials, assignments, and examinations for Data Structures courses",
+        "Assisted students with disabilities by adapting explanations and examples to simplify complex CS concepts",
+        "Provided one-on-one academic support and grading assistance"
+      ]
+    },
+    {
+      "company": "CIVICA Resource Pvt. Ltd.",
+      "location": "UK / India",
+      "role": "Junior Software Developer",
+      "period": "Feb 2018 - Dec 2018",
+      "highlights": [
+        "Developed C# and Java MVC backend modules for live systems serving 170+ local government authorities",
+        "Automated QA and regression testing using Selenium, reducing testing cycle time by approximately 30%",
+        "Built Python-based image processing solutions during hackathons to address parking and infrastructure challenges"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Stevens Institute of Technology",
+      "degree": "Master of Science in Computer Science",
+      "location": "Hoboken, NJ",
+      "year": "2020",
+      "gpa": "3.90",
+      "projects": [
+        {
+          "title": "SQL Compiler",
+          "technologies": "Java",
+          "description": "Built a SQL compiler that processes EMF/MF queries and generates executable Java programs that produce optimized tabular outputs"
+        },
+        {
+          "title": "Calorie & Water Tracker",
+          "technologies": "ReactJS, NodeJS, Mongo DB",
+          "description": "Developed a full-stack web application to track daily calorie intake and water consumption with persistent user data"
+        },
+        {
+          "title": "Nearby Events & Places Platform",
+          "technologies": "NodeJS, HTML, CSS",
+          "description": "Created a location-based platform that recommends nearby events and places based on user interests and geographic location"
+        }
+      ]
+    },
+    {
+      "school": "Institute of Technology and Management (ITM Universe)",
+      "degree": "Bachelor of Engineering in Computer Engineering",
+      "location": "Gujarat, India",
+      "year": "2018",
+      "gpa": "3.90",
+      "projects": [
+        {
+          "title": "Image Processing Attendance System",
+          "technologies": "Python, OpenCV, SQL",
+          "description": "Hackathon project that analyzed classroom images to detect attendance and report absentee data to stakeholders"
+        },
+        {
+          "title": "Expense Updater",
+          "technologies": "Java, Android, Mongo DB",
+          "description": "Developed an Android application using Java that allows users to create custom tables to track expenses, inventory, attendance, and other data for personal and small business use"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        "Java (Advanced)",
+        "Python",
+        "C#",
+        "Swift",
+        "Objective-C",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "category": "Frameworks & Backend",
+      "skills": [
+        "Spring Boot",
+        "Spring MVC",
+        "Hibernate",
+        "Microservices",
+        "REST APIs",
+        "Vapor",
+        ".NET"
+      ]
+    },
+    {
+      "category": "Frontend & Full Stack",
+      "skills": [
+        "ReactJS",
+        "NodeJS",
+        "Java MVC",
+        "Swift UI"
+      ]
+    },
+    {
+      "category": "Databases",
+      "skills": [
+        "PostgreSQL",
+        "MySQL",
+        "SQL",
+        "MongoDB",
+        "Snowflake",
+        "Data Lake"
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "skills": [
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Git"
+      ]
+    },
+    {
+      "category": "Testing & Automation",
+      "skills": [
+        "Selenium",
+        "Unit Testing",
+        "Production Support"
+      ]
+    },
+    {
+      "category": "Methodologies & Expertise",
+      "skills": [
+        "System Design",
+        "Agile",
+        "Scrum",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "category": "Certifications",
+      "skills": [
+        "AWS Developer Associate",
+        "Advanced Java Training",
+        "Android Training"
+      ]
+    }
+  ]
+}
